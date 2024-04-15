@@ -16,11 +16,8 @@ pip install pynput
 ## Usage
 Clone or download this repository to your local machine.
 Open a terminal or command prompt and navigate to the directory containing the downloaded files.
-Run the script using Python:
-'Copy code
-'''python keylogger.py'''
-'
-Once the script is running, it will capture keyboard events and log them to a file named "gotyou.txt" in the same directory.
+Run the script using Python code: 'python keylogger.py'
+Once the script runs, it will capture keyboard events and log them to a file named "gotyou.txt" in the same directory.
 To stop the keylogger, press Enter in the terminal or command prompt where the script is running.
 
 ## Important Notes
